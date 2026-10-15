@@ -286,17 +286,3 @@ else
    legend([Legend_curve, Legend_turn, legend_line], ...
        {'Quadratic Parabola', TPL1, 'Straight line'}, 'Location','best');
 end
-
-%Reference
-
-%Linspace reference (no date) Generate linearly spaced vector - MATLAB. 
-% Available at: https://www.mathworks.com/help/matlab/ref/double.linspace.html 
-% (Accessed: 05 November 2025).  line: maincode = (104,108) and Extension = (249,258)
-
-% Isnumeric (no date) Determine whether input is numeric array - MATLAB. Available at: 
-% https://www.mathworks.com/help/matlab/ref/isnumeric.html
-%  (Accessed: 05 November 2025). line: extension = (166,167)
-
-%Strcmpi (no date) Compare strings (case insensitive) - MATLAB. Available at: 
-% https://www.mathworks.com/help/matlab/ref/strcmpi.html 
-% (Accessed: 05 November 2025). line: extension = (168,174)
