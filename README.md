@@ -1,2 +1,2 @@
-# MATLAB_Projects
+# MATLAB Projects
 
